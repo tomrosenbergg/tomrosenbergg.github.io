@@ -16,6 +16,7 @@ Only Night Remembers
 {{< linebreak >}}
 
 ![alt](/ONR/eclipse.jpg)
-![alt](/ONR/ONR1.jpg)
+![alt](/ONR/ONR5.jpg)
+![alt](/ONR/ONR6.jpg)
 ![alt](/ONR/ONR3.jpg)
 
