@@ -14,4 +14,4 @@ Destination: Team USA is a feature-length branded documentary I produced for Uni
 ![alt](/DTUSA/DTUSA20.jpg)
 ![alt](/DTUSA/DTUSA40.jpg)
 
-{{< video src=https://vimeo.com/1087719333?share=copy width="100%" >}}
+{{< vimeo 1087719333 >}}

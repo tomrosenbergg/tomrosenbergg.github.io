@@ -18,6 +18,6 @@ Developed by architects Ana Filipović and Philipp Mecke, A Place of One's Own i
 ![alt](/APlace/aplace4.jpg)
 
 
+{{< vimeo 1087721130 >}}
 
-{{< video src=https://media-hosting.imagekit.io/a33dadf3abe543b6/aplace.mp4?Expires=1838641198&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=kmhkcCc93pf7GVUrUFWhgWvGnPoOGnPR~VNdHZnHYd18rYCB1QrXr3aw81V969LU7qMM7DUPWvj-dDGFKg6Poub5~OSFllsO8zecVpSX10jGJ4NKNm5ods0QSqA0-PItH23O~O28Y7J1MWrVqjnjJJck4gVSvxHeQ89zUbwAsLN0WXzMw7pTLOgvrefhX9zSFiGyt6IAJctd54xeakpVxk0JwAa4How1VdW0PPbqkCT3wuXm9pyetT-frhbLItF1t8qjPJIiB2u-cct1Rr-8YAA-saKyhhMhcj1O-gKxw2nJwou2rSfDo7mwXqKg05sB4aEq3JHSWEPew4oeEJhzZA width="100%" >}}
 
