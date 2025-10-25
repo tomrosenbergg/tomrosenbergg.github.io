@@ -7,7 +7,8 @@ bookToc: False
 
 Rosenberg Productions LLC
 
-tom@rosenbergproductions.com
+{{< mailto email="tom@rosenbergproductions.com" />}}
+
 
 +49 152 133 879 28
 
