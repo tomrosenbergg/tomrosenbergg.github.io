@@ -3,6 +3,10 @@ title: Travel Out of the Ordinary
 weight: 10
 bookToc: False
 ---
+**Travel Out of the Ordinary**
+
+2022
+
 Travel Out of the Ordinary is a campaign I shot for the digital travel brand, Omio. Directed by Ash O'Neil.
 
 {{< linebreak >}}
