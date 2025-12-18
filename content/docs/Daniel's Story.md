@@ -5,17 +5,23 @@ bookToc: False
 ---
 **Remember the Children: Daniel's Story**
 
-In Production / 10 min 
+2025 / 10 min 
 
 
-Daniel's Story is an animated film I am currently producing for the United States Holocaust Memorial Museum (USHMM). The project is adapted from the Museum’s primary exhibition for young people and families, which tells the story of one family’s experiences during the Holocaust from the perspective of a boy growing up in Nazi Germany. In collaboration with animation director [Yaka Hara](https://yakahara.com/), we have developed the script, character sheets, illustration style, storyboards, and animatic. The film is currently in production.
+I produced and co-directed this animated children's film with animation director [Yaka Hara](https://yakahara.com/) for the United States Holocaust Memorial Museum. Adapted from the museum's longstanding exhibition for young people, the film serves as an accessible introduction to the history of the Holocaust. It tells the story of German Jewish boy named Daniel and how he survived the Shoah. We worked closely with historians to ensure historical accuracy and alignment with the original exhibition. The museum released the film as a free educational resource for families and classrooms. 
+
+Additional resources connected to the film are available [here](https://www.ushmm.org/learn/daniels-story-animated-video).
+
 
 
 {{< linebreak >}}
 {{< linebreak >}}
 {{< linebreak >}}
 
-![alt](/DS/DS04.png)
+
+{{< youtube 1tT_LBlAsuc >}}
+
+<!-- ![alt](/DS/DS04.png) -->
 
 
 
