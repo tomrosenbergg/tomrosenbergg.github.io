@@ -4,13 +4,9 @@ weight: 100
 bookToc: False
 ---
 
+Tom Rosenberg
 
-Rosenberg Productions LLC
-
-{{< mailto email="tom@rosenbergproductions.com" />}}
-
-
-+49 152 133 879 28
+{{< mailto email="tom@tomrosenberg.net" />}}
 
 © 2025
 
