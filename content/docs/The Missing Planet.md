@@ -6,7 +6,7 @@ aliases:
   - /docs/only-night-remembers/
 ---
 
-**THE MISSING PLANET**
+**The Missing Planet**
 
 الليل فقط يتذكر
 
